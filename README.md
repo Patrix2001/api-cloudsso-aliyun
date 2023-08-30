@@ -19,7 +19,8 @@ npm install
 
 * Check your **directory_id** with execute ```node config.js``` in terminal.
 
-* Edit **username**, **password** in script ``index.js`` and **username** same as your modify in script ``destroy.js``. **directoryId** is from value of **DirectoryId** and **groupId** is from **GroupId** in terminal
+* Edit **username**, **password** in script ``index.js`` and **username** same as your modify in script ``destroy.js``. **directoryId** is from value of **DirectoryId** and **groupId** is from **GroupId** in terminal.
+![image](https://github.com/Patrix2001/api-cloudsso-aliyun/assets/61679822/3cc5681d-7850-4032-b919-e37d862fc3ac)
 
 * Run ``index.js`` script to create users
 
