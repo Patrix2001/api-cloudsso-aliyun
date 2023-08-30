@@ -34,6 +34,11 @@ node index.js
 node destroy.js
 ```
 
+## Expected output:
+
+![image](https://github.com/Patrix2001/api-cloudsso-aliyun/assets/61679822/57c8d678-2609-4aff-a717-570ca3b3ab77)
+
+
 # Limitation
 
 * Destroy script can delete up to 100 accounts per execute script
